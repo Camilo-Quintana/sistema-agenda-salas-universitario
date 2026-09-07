@@ -6,10 +6,8 @@ Universidad Andrés Bello.
 Status: ACTIVO
 Versión: 1.0.0
 Licencia: MIT
- 
-================================================================================
-                            TABLA DE CONTENIDOS
-================================================================================
+
+Contenidos
  
 1. Problemática
 2. Solución
@@ -22,9 +20,7 @@ Licencia: MIT
 9. Integrantes
 10. Contacto
  
-================================================================================
-                            1. PROBLEMÁTICA
-================================================================================
+Problemática
  
 En la Universidad Andrés Bello existe la necesidad de:
  
@@ -49,9 +45,7 @@ Esto genera:
 • Uso ineficiente de espacios
 • Falta de registro histórico de reservas
  
-================================================================================
-                            2. SOLUCIÓN
-================================================================================
+Solución
  
 ReservaUNAB es una aplicación web que permite:
  
@@ -71,9 +65,7 @@ ReservaUNAB es una aplicación web que permite:
  
 ✓ Datos persistentes - Las reservas se guardan localmente en el navegador
  
-================================================================================
-                        3. CARACTERÍSTICAS PRINCIPALES
-================================================================================
+Características principales:
  
 3.1 EXPLORACIÓN DE ESPACIOS
 - Visualización en grilla de todas las salas disponibles
@@ -121,9 +113,7 @@ ReservaUNAB es una aplicación web que permite:
 - Animaciones suaves - Transiciones de 200ms para hover effects
 - Accesibilidad - ARIA labels, roles semánticos, contraste de colores
  
-================================================================================
-                        4. TECNOLOGÍAS UTILIZADAS
-================================================================================
+Tecnologías utulizadas:
  
 FRONTEND:
 - HTML5 - Estructura semántica del proyecto
@@ -146,9 +136,7 @@ NO INCLUIDO (por requisitos):
 - Base de datos (MongoDB, PostgreSQL, etc.)
 - Bundlers (Webpack, Vite, etc.)
  
-================================================================================
-                        5. INSTALACIÓN
-================================================================================
+Instalación:
  
 REQUISITOS PREVIOS:
 - Navegador moderno (Chrome, Firefox, Safari, Edge)
@@ -179,9 +167,7 @@ PASOS:
  
    O directamente doble-click en index.html (sin servidor local)
  
-================================================================================
-                        6. CÓMO USAR LA APLICACIÓN
-================================================================================
+Cómo usar la aplicación:
  
 6.1 EXPLORAR ESPACIOS
 1. Abre index.html
@@ -223,9 +209,7 @@ Nombre:         Juan Pérez
 Fecha:          Hoy o mañana (automático)
 Horarios:       08:00 a 21:00 (bloques de 1 hora)
  
-================================================================================
-                    7. ESTRUCTURA DEL PROYECTO
-================================================================================
+Estructura del proyecto:
  
 reserva-unab/
 ├── index.html              # Página principal (explorar y reservar)
@@ -300,9 +284,7 @@ css/filtros.css
 - Inputs y selects
 - Responsive en móvil
  
-================================================================================
-                    8. FUNCIONALIDADES TÉCNICAS
-================================================================================
+Funcionalidades técnicas
  
 8.1 VALIDACIONES IMPLEMENTADAS
  
@@ -340,50 +322,8 @@ Limitaciones:
 - No sincroniza entre navegadores
 - Se borra al limpiar cache
  
-================================================================================
-                        9. ESTADÍSTICAS
-================================================================================
- 
-Líneas de código HTML:      ~150
-Líneas de código CSS:       ~600
-Líneas de código JavaScript: ~800
-Salas disponibles:          20
-Horarios por día:           13 (08:00-21:00)
-Edificios:                  3 (A, B, C)
-Tipos de espacios:          4 (Clases, Laboratorio, Estudio, Reunión)
-Tamaño total:               ~150KB
- 
-================================================================================
-                    10. REQUISITOS ACADÉMICOS CUMPLIDOS
-================================================================================
- 
-HTML5 semántico
-✓ CUMPLIDO - Estructura con <header>, <nav>, <main>, <section>
- 
-CSS3 personalizado
-✓ CUMPLIDO - Variables, Flexbox, Grid, Responsive, 600+ líneas
- 
-Bootstrap
-✓ CUMPLIDO - Grid, componentes (modal, navbar, badges), utilidades
- 
-JavaScript vanilla
-✓ CUMPLIDO - Sin frameworks, 800+ líneas de lógica
- 
-Validaciones
-✓ CUMPLIDO - RUT, email, fecha, horario, nombre
- 
-Diseño responsive
-✓ CUMPLIDO - Mobile-first, 3 breakpoints (576px, 768px, 1024px)
- 
-Datos simulados
-✓ CUMPLIDO - 20 salas y reservas en localStorage
- 
-Git/GitHub
-✓ CUMPLIDO - Commits organizados, ramas, historial claro
- 
-================================================================================
-                        11. MEJORAS FUTURAS
-================================================================================
+
+Mejoras futuras:
  
 Si se continuara este proyecto:
  
@@ -398,9 +338,7 @@ Si se continuara este proyecto:
 - Multi-usuario - Cada usuario ve solo sus reservas
 - Comentarios - Reseñas de espacios
  
-================================================================================
-                        12. INTEGRANTES
-================================================================================
+Integrantes:
  
 Nombre: Camilo Quintana
 Rol: Desarrollador Full Stack
@@ -410,18 +348,14 @@ Nombre: Axel Antezana
 Rol: Desarrollador Frontend
 Responsabilidades: Interfaz, CSS, diseño responsivo, UX
  
-================================================================================
-                        13. CONTACTO
-================================================================================
+Contacto:
  
 Para preguntas o sugerencias sobre el proyecto:
  
-Camilo Quintana - [Email/GitHub]
-Axel Antezana - [Email/GitHub]
+Camilo Quintana - c.quintanagaitan@uandresbello.edu
+Axel Antezana - a.antezanapereyra@uandresbello.edu
  
-================================================================================
-                        14. REFERENCIAS
-================================================================================
+Referencias:
  
 - MDN Web Docs - HTML
   https://developer.mozilla.org/es/docs/Web/HTML
@@ -441,20 +375,12 @@ Axel Antezana - [Email/GitHub]
 - Web Accessibility Guidelines (WCAG)
   https://www.w3.org/WAI/WCAG21/quickref/
  
-================================================================================
-                        15. AGRADECIMIENTOS
-================================================================================
- 
-- Universidad Andrés Bello por la inspiración del proyecto
-- Bootstrap por facilitar el desarrollo frontend
-- La comunidad de desarrolladores por recursos y documentación
- 
-================================================================================
+
+
  
 Última actualización: Septiembre 2026
 Versión: 1.0.0
-Estado: Completado y funcional ✓
+Estado: Completado y funcional 
  
-ReservaUNAB - Simplificando la gestión de espacios universitarios
+
  
-================================================================================
